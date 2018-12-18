@@ -1,0 +1,20 @@
+{
+  "name": "com.formtest",
+  "version": "1.0.0",
+  "description": "Simple forms to send data to webservice endpoint",
+  "main": "index.js",
+  "scripts": {
+  "start": "node index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Temire/FormTest.git"
+  },
+  "author": "Temire Emmanuel",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/Temire/FormTest/issues"
+  },
+  "homepage": "https://github.com/Temire/FormTest#readme"
+}
